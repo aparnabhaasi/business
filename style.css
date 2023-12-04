@@ -1575,7 +1575,7 @@ p {
 .brand-area .clients-logos .single-image {
   display: inline-block;
   margin: 13px 10px;
-  background-color: var(--white);
+  background-color: var(--dark-2);
   line-height: 100px;
   padding: 8px 25px;
   border-radius: 8px;
